@@ -86,7 +86,7 @@ One Vehicle can have many Bookings
 
 The Bookings table connects Users and Vehicles using Foreign Keys
 
-🧪 Sample Data
+ Sample Data
 
 The database includes:
 
