@@ -1,6 +1,6 @@
  Vehicle Rental Management System (PostgreSQL)
  
- Project Overview
+Project Overview
 
 The Vehicle Rental Management System is a relational database project built using PostgreSQL that manages:
 
